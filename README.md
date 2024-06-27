@@ -1,6 +1,6 @@
 ## boa vinda ao meu perfil🫀
 
-meu nome e elaine 
+meu nome é Mileni
 
 - estou estudando na Alura;  
 - estou me desenvolvendo na linguagem JavaScrip
